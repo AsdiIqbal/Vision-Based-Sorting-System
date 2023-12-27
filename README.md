@@ -2,7 +2,7 @@
 
 This project is concerned with the development of a high-speed sorting system based on Machine Vision that can segregate carton boxes on the main belt conveyor. This technology will benefit the industry in a variety of ways. The technology has a big potential in the various FMCG sectors, from saving labor costs and effort of recognizing (a product in a carton box) and then relocating that carton to another conveyor or workbench to saving a lot of time and eliminating human mistake. As a result, our objective is to create a low-cost Automated sorting system that can be used in local companies to assist them enhance production. Local industry development is essential for each country's economic progress.
 
-<img src="">
+<img src="https://github.com/AsdiIqbal/Vision-Based-Sorting-System/blob/main/Resources/intro.PNG">
 
 ## Requirements
 
@@ -27,8 +27,8 @@ The vision-based high-speed sorting system will make use of a Vision Camera conn
 
 An `Aruco Marker` carrying some information about the cartoon is detected and processed from the captured frames to help in the algorithm ahead. A detailed Library of aruco markers can be accessed from `openCV` module. Frames and extracted features is displayed on a GUI. 
 
-<img src="">
+<img src="https://github.com/AsdiIqbal/Vision-Based-Sorting-System/blob/main/Resources/Capture.PNG">
 
 GUI features the monitoring of the frames, Data extracted from the markers, Status of sensors, image processing settings and inventory management system.
 
-<img src="">
+<img src="https://github.com/AsdiIqbal/Vision-Based-Sorting-System/blob/main/Resources/1.PNG"><img src="https://github.com/AsdiIqbal/Vision-Based-Sorting-System/blob/main/Resources/2.PNG"><img src="https://github.com/AsdiIqbal/Vision-Based-Sorting-System/blob/main/Resources/3.PNG">
